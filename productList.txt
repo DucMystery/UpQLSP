@@ -1,0 +1,2 @@
+ID : 1000 , Name : gtx1000 , Brand : sony , Price : 2000000.0 , Capacity : 256.0 , Description : new 90%
+ID : 1001 , Name : gtx1001 , Brand : samsung , Price : 55.0 , Capacity : 1.2E7 , Description : 
